@@ -1,4 +1,4 @@
-# TextPredictionInC
+# TextPredictionInCpp
 CLI Text prediction tool in C, using a tree and BFS search. 
 
 ## Final App
